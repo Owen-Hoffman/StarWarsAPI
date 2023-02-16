@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/StarWarsAPI/static/js/main.5013bc93.js",
+    "static/media/stars.jpg": "/StarWarsAPI/static/media/stars.99db7d1f7e99f2f869bc.jpg",
+    "static/media/planet.png": "/StarWarsAPI/static/media/planet.227b8edb98c7f5cd43c7.png",
+    "static/media/R2D2.png": "/StarWarsAPI/static/media/R2D2.0002307cf6b2be8863ea.png",
+    "static/media/death star.png": "/StarWarsAPI/static/media/death star.f3948fc09e9f6b55a63d.png",
+    "index.html": "/StarWarsAPI/index.html",
+    "main.5013bc93.js.map": "/StarWarsAPI/static/js/main.5013bc93.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5013bc93.js"
+  ]
+}
