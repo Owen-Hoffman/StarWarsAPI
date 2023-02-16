@@ -6,7 +6,7 @@ function Home() {
     <div className="home">
       <div className="pt-5">
         <p className="h1 text-warning text-center mb-3 font-weight-bold">
-          A simple star wars data source for Club Wealth
+          A simple star wars data source
         </p>
         <div className="text-center p-3">
           <Link to="/people" className="btn btn-primary">
