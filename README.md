@@ -1,2 +1,3 @@
 # StarWarsAPI
-Created with CodeSandbox
+
+A simple star wars data source created with SWAPI in JavaScript.
