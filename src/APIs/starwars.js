@@ -100,5 +100,4 @@ const starwars = {
     }
   }
 };
-
 export default starwars;
