@@ -13,7 +13,7 @@ function Home() {
         </p>
         <div className="container text-center p-3">
           <Link to="/people">
-            <img src={person} class="img-circle" alt="Cinque Terre" width="304" height="236" onClick="/people" />
+            <img src={person} class="img-circle" alt="Cinque Terre" width="304" height="236"/>
           </Link>
           <Link to="/starships">
             <img src={starship} class="img-circle" alt="Cinque Terre" width="304" height="236" />
